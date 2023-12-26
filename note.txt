@@ -1,1 +1,6 @@
-
+上传仓库：https://blog.csdn.net/weixin_45309916/article/details/108273988
+右击，git bash here
+git init
+git add .
+git commit -m “你的提交信息”
+git push
